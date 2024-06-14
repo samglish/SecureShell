@@ -65,3 +65,7 @@ output
 57f0578ed484e979e61b27213b9726b3  ssh_host_rsa_key
 f250fe82cc167b4c38ef39cc8b89fa2c  ssh_host_rsa_key.pub
 ``` 
+start ssh service
+```terminal
+service ssh start
+```
