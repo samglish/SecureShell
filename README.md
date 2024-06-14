@@ -70,3 +70,4 @@ start ssh service
 service ssh start
 ```
 enter the password
+<img src="ssh.png" width="80%">
