@@ -81,3 +81,33 @@ netstat -antp
 ```
 output
 ```
+(Tous les processus ne peuvent être identifiés, les infos sur les processus
+non possédés ne seront pas affichées, vous devez être root pour les voir toutes.)
+Connexions Internet actives (serveurs et établies)
+Proto Recv-Q Send-Q Adresse locale          Adresse distante        Etat        PID/Program name    
+tcp        0      0 127.0.0.1:8830          0.0.0.0:*               LISTEN      10325/Code --standa 
+tcp        0      0 127.0.0.1:8831          0.0.0.0:*               LISTEN      10325/Code --standa 
+tcp        0      0 127.0.0.1:8832          0.0.0.0:*               LISTEN      10325/Code --standa 
+tcp        0      0 127.0.0.1:40967         0.0.0.0:*               LISTEN      10325/Code --standa 
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:8828          0.0.0.0:*               LISTEN      10325/Code --standa 
+tcp        0      0 127.0.0.1:8829          0.0.0.0:*               LISTEN      10325/Code --standa 
+tcp        0      0 172.20.10.4:36030       140.82.113.25:443       ESTABLISHED 1835/chrome --type= 
+tcp        0      0 172.20.10.4:59318       185.199.110.133:443     ESTABLISHED 1835/chrome --type= 
+tcp        0      0 172.20.10.4:37572       13.107.246.64:443       TIME_WAIT   -                   
+tcp        0      0 172.20.10.4:54140       142.250.217.174:443     ESTABLISHED 1835/chrome --type= 
+tcp        0      0 172.20.10.4:43182       13.107.246.64:80        TIME_WAIT   -                   
+tcp        0      0 172.20.10.4:49198       142.250.217.238:443     TIME_WAIT   -                   
+tcp        0      0 172.20.10.4:57588       146.75.6.132:80         TIME_WAIT   -                   
+tcp        0      0 172.20.10.4:50012       31.13.67.52:443         ESTABLISHED 1835/chrome --type= 
+tcp        0      0 172.20.10.4:39120       74.125.139.188:5228     ESTABLISHED 1835/chrome --type= 
+tcp        0      0 172.20.10.4:60260       20.42.65.84:443         ESTABLISHED 9903/Code --standar 
+tcp        0      0 172.20.10.4:36798       68.232.34.200:443       ESTABLISHED 9903/Code --standar 
+tcp        0      0 172.20.10.4:52038       217.31.202.63:80        TIME_WAIT   -                   
+tcp        0      0 172.20.10.4:52420       104.16.208.203:443      TIME_WAIT   -                   
+tcp        0      0 172.20.10.4:41800       139.84.238.12:443       TIME_WAIT   -                   
+tcp        0      0 172.20.10.4:46336       185.199.109.154:443     ESTABLISHED 1835/chrome --type= 
+tcp        0      0 172.20.10.4:54828       104.19.190.106:443      TIME_WAIT   -                   
+tcp        0      0 172.20.10.4:56230       104.21.67.201:443       ESTABLISHED -                   
+tcp6       0      0 :::22                   :::*                    LISTEN   
+```
