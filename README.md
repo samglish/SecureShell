@@ -77,3 +77,7 @@ enter the password
 
 check ssh services
 ```terminal
+netstat -antp
+```
+output
+```
