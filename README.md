@@ -25,3 +25,7 @@ transfer all keys to the new folder.
 ```terminal
 mv mv ssh_host_* default_clef/
 ```
+reconfigure openssh
+```terminal
+dpkg-reconfigure openssh-server
+```
