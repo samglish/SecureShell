@@ -69,3 +69,4 @@ start ssh service
 ```terminal
 service ssh start
 ```
+enter the password
