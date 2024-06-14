@@ -1,2 +1,3 @@
-# SecureShell
-secure communications with SSH
+# SecureShell (SSH)
+### secure communications with SSH
+### Config network proxy
