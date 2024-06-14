@@ -66,8 +66,11 @@ output
 f250fe82cc167b4c38ef39cc8b89fa2c  ssh_host_rsa_key.pub
 ``` 
 start ssh service
+
 ```terminal
 service ssh start
 ```
+
 enter the password
+
 <img src="ssh.png" width="80%">
