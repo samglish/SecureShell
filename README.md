@@ -10,3 +10,6 @@ show
 ```terminal
 ls
 ```
+```output
+
+```
