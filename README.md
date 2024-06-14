@@ -113,5 +113,5 @@ tcp6       0      0 :::22                   :::*                    LISTEN
 ## network proxy configuration
 open config file
 ```
-cd /etc/
+nano /etc/proxychains.conf 
 ```
