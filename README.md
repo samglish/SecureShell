@@ -29,3 +29,7 @@ reconfigure openssh
 ```terminal
 dpkg-reconfigure openssh-server
 ```
+check the default key
+```terminal
+md5sum *
+```
