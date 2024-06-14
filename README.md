@@ -52,3 +52,7 @@ open the folder
 ```terminal
 cd default_clef/
 ```
+launch md5sum later
+```terminal
+md5sum *
+```
