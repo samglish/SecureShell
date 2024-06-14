@@ -1,7 +1,7 @@
 # SecureShell (SSH)
 * secure communications with SSH
 * network proxy configuration
-## secure communications with SSHs
+## secure communications with SSH
 ### network proxy configuration
 ```terminal
 cd /etc/ssh/
