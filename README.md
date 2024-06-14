@@ -182,5 +182,5 @@ tcp_connect_time_out 8000
 socks4 	127.0.0.1 9050
 ```
 After :
-* uncommenting #dynamic_chain
+* uncommenting `dynamic_chain`
 * 
