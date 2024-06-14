@@ -181,6 +181,5 @@ tcp_connect_time_out 8000
 # defaults set to "tor"
 socks4 	127.0.0.1 9050
 ```
-After :
 * uncommenting `dynamic_chain`
 * 
