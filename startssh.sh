@@ -10,6 +10,5 @@ service ssh start
 #service bind9 start
 #service apache2 start
 #service proftpd start
-#service vsftpd start
 #service pure-ftpd start
 #service exim4 start
