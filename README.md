@@ -74,3 +74,6 @@ service ssh start
 enter the password
 
 <img src="ssh.png" width="80%">
+
+check ssh services
+```terminal
