@@ -140,7 +140,7 @@ strict_chain
 # all proxies must be online to play in chain
 # otherwise EINTR is returned to the app
 #
-#random_chain
+random_chain
 #
 # Random - Each connection will be done via random proxy
 # (or proxy chain, see  chain_len) from the list.
@@ -183,3 +183,4 @@ socks4 	127.0.0.1 9050
 ```
 After :
 * uncommenting #dynamic_chain
+* 
