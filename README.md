@@ -2,7 +2,6 @@
 * secure communications with SSH
 * network proxy configuration
 ## secure communications with SSH
-### network proxy configuration
 ```terminal
 cd /etc/ssh/
 ```
@@ -111,3 +110,4 @@ tcp        0      0 172.20.10.4:54828       104.19.190.106:443      TIME_WAIT   
 tcp        0      0 172.20.10.4:56230       104.21.67.201:443       ESTABLISHED -                   
 tcp6       0      0 :::22                   :::*                    LISTEN   
 ```
+## network proxy configuration
