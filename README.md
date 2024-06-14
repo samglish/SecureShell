@@ -111,3 +111,7 @@ tcp        0      0 172.20.10.4:56230       104.21.67.201:443       ESTABLISHED 
 tcp6       0      0 :::22                   :::*                    LISTEN   
 ```
 ## network proxy configuration
+open config file
+```
+cd /etc/
+```
