@@ -3,3 +3,6 @@
 * network proxy configuration
 ## secure communications with SSHs
 ### network proxy configuration
+```terminal
+cd /etc/ssh/
+```
